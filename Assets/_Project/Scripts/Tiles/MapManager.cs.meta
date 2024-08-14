@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fbb0b07b2cd1bf44b881b92a7b448d45
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - overlayTilePrefab: {fileID: 1855211998720025620, guid: ddabb3b2eaf79094cb3899adcf472e2d, type: 3}
+  - overlayTileContainer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
